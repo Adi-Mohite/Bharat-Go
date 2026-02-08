@@ -7,7 +7,7 @@ The main focus of this project is to implement a complete frontend user journey 
 
 Live Demo
 
-Live URL: (add your deployed link here)
+Live URL: https://e-commerce-bharat-go.netlify.app/
 
 Tech Stack
 
@@ -108,7 +108,7 @@ Creating a complete frontend user flow from product listing to checkout
 Author
 
 Adarsh Mohite
-Frontend / MERN Stack Developer (Fresher)
+MERN Stack Developer
 
 GitHub: https://github.com/Adi-Mohite
 
